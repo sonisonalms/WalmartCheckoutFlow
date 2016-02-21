@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="WalmartCheckout"
+	skipfailedinvocationcounts="false" junit="false" parallel="methods"
+	data-provider-thread-count="1" annotations="JDK">
+
+	
+	<test verbose="2" name="WalmartCheckoutTest" annotations="JDK">
+		<classes>
+			<class name="TestCases.walmartFlowTestng" />	
+		</classes>
+	</test>
+	
+
+</suite>

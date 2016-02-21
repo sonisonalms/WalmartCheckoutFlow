@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [WalmartCheckout]" parallel="methods" data-provider-thread-count="1">
+  <test name="WalmartCheckoutTest(failed)" parallel="methods">
+    <classes>
+      <class name="TestCases.walmartFlowTestng">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testWalmartcheckout"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- TestCases.walmartFlowTestng -->
+    </classes>
+  </test> <!-- WalmartCheckoutTest(failed) -->
+</suite> <!-- Failed suite [WalmartCheckout] -->

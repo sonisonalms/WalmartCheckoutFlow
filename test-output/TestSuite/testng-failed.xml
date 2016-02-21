@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="walmartFlowTestng(failed)">
+    <classes>
+      <class name="TestCases.walmartFlowTestng">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testWalmartcheckout"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- TestCases.walmartFlowTestng -->
+    </classes>
+  </test> <!-- walmartFlowTestng(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
