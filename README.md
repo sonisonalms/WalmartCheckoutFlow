@@ -20,5 +20,5 @@ Product search page selects the first item by default.
 
 I will assert more items in future.
 
-Thanks
+Thanks<br/>
 Sonal Soni
