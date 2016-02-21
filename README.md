@@ -19,3 +19,6 @@ CheckoutPage - does not contain any kid of validation.
 Product search page selects the first item by default.
 
 I will assert more items in future.
+
+Thanks
+Sonal Soni
